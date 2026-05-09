@@ -1,0 +1,9 @@
+*.class
+*.jar
+bin/
+*.swp
+*.swo
+*~
+.DS_Store
+.idea/
+*.iml
